@@ -1,0 +1,32 @@
+ul.myPagination li a:hover {
+    background-color: #032a63 !important;
+    color: white !important;
+}
+
+ul.myPagination {
+    display: inline-block;
+}
+
+ul.myPagination li {display: inline;}
+
+ul.myPagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.myPaginationContainer {
+    text-align: center;
+}
+
+#btnComment {
+    color: white;
+    background-color: #032a63;
+    border-color: white;
+}
+
+#btnComment:hover {
+    color: #032a63;
+    background-color: white;
+}
